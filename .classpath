@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="models/|util/|services/" kind="src" path="src/main/java/com/petmanagement"/>
+	<classpathentry kind="src" path="src/main/java/com/petmanagement/models"/>
+	<classpathentry kind="src" path="src/main/java/com/petmanagement/services"/>
+	<classpathentry kind="src" path="src/main/java/com/petmanagement/util"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
