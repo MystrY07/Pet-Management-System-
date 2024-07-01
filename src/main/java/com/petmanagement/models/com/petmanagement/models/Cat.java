@@ -2,7 +2,8 @@ package com.petmanagement.models;
 
 // Cat class extending Animal
 public class Cat extends Animal {
-    
+    public Cat() {}
+
     // Constructor to initialize Cat-specific attributes
     public Cat(String id, String name, int age) {
         super(id, name, age);
